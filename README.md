@@ -1,5 +1,5 @@
 # GNN_seminar
-Academix GNN勉強会
+AcademiX GNN勉強会
 
 ## 使用テキスト
 佐藤竜馬『機械学習プロフェッショナルシリーズ グラフニューラルネットワーク』講談社サイエンティフィク https://www.kspub.co.jp/book/detail/5347829.html
